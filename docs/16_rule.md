@@ -1,4 +1,8 @@
-# Rule 16 - Use your financials to tell your story
+---
+id: rule-16
+title: Rule 16 - Use your financials to tell your story
+sidebar_label: Rule Ke-16
+---
 
 Financial report and metrics itu bisa jadi indikasi yang sangat crucial tentang bisnis kamu.
 

@@ -1,4 +1,8 @@
-# Rule 12 - Manage your team like a jazz band
+---
+id: rule-12
+title: Rule 12 - Manage your team like a jazz band
+sidebar_label: Rule Ke-12
+---
 
 Seperti dalam band jazz, pemimpin startup bertanggung jawab untuk membangun strategi yang koheren dan menetapkan prioritas sambil memberdayakan setiap anggota tim untuk menjadi kreatif dan produktif.
 

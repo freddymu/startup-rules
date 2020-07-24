@@ -1,4 +1,8 @@
-# Rule 3 - Kejer improvement yang besar bukan hanya 1x improvement, kalau bisa lebih
+---
+id: rule-3
+title: Rule 3 - Kejer improvement yang besar bukan hanya 1x improvement, kalau bisa lebih
+sidebar_label: Rule Ke-3
+---
 
 Kalau kamu masuk ke market yang udah sangat competitive, kamu harus kasih alesan kenapa people harus mau pake produk kamu.
 

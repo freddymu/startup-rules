@@ -1,4 +1,8 @@
-# Rule - 5 Kebanyakan gagal karena eksekusi, bukan karena inovasi yang jelek
+---
+id: rule-5
+title: Rule - 5 Kebanyakan gagal karena eksekusi, bukan karena inovasi yang jelek
+sidebar_label: Rule Ke-5
+---
 
 Banyak yang suka salah bedain antara "Luck" dan "Skill".
 

@@ -1,5 +1,8 @@
-
-# Rule 25: Hati-hati dengan asumsi mu
+---
+id: rule-25
+title: Rule 25 - Hati-hati dengan asumsi mu
+sidebar_label: Rule Ke-25
+---
 
 Di awal startup kamu harus ada dashboard yang flexible untuk mengukur semua asumsimu. Kalau dashboard kamu terlalu kaku, kamu membahayakan startup kamu dengan asumsi asumsi yang salah tapi tetap di lakukan.
 

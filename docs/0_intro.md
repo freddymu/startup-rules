@@ -1,14 +1,10 @@
 ---
-layout: default
-title: Intro
+id: intro
+title: Profil Narasumber
+sidebar_label: Profil Narasumber
 ---
-# Startup Rules
 
-## Profil
-
-![https://media-exp1.licdn.com/dms/image/C5103AQFfUDDpxn6sYQ/profile-displayphoto-shrink_200_200/0?e=1600905600&v=beta&t=Z6ZjX_-4I0F063a5Zfn5nJ_aYnfDhwCgbMxH7rf6zE0](https://media-exp1.licdn.com/dms/image/C5103AQFfUDDpxn6sYQ/profile-displayphoto-shrink_200_200/0?e=1600905600&v=beta&t=Z6ZjX_-4I0F063a5Zfn5nJ_aYnfDhwCgbMxH7rf6zE0)
-
-### William anputra
+## William Anputra
 
 Founder at jokii. Helping food related UMKM win in this very competitive world
 

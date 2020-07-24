@@ -1,4 +1,8 @@
-# Rule 11 - Lebih baik hire part time expert, daripada full time newbie
+---
+id: rule-11
+title: Rule 11 - Lebih baik hire part time expert, daripada full time newbie
+sidebar_label: Rule Ke-11
+---
 
 Early stage startup cashnya sangat terbatas, janganlah compete dengan unicorn untuk masalah gaji. You will never win.
 
