@@ -30,7 +30,7 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'Startup Rules',
+  projectName: 'startup-rules',
   organizationName: 'Anonymous',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
@@ -38,7 +38,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'intro', label: 'Startup Rules'},
+    // {doc: 'intro', label: 'Startup Rules'},
     // {doc: 'doc4', label: 'API'},
     // {page: 'help', label: 'Help'},
     // {blog: true, label: 'Blog'},
@@ -109,7 +109,8 @@ const siteConfig = {
   //customDocsPath: 'docs-examples-from-docusaurus'
   docsUrl: '',
   scrollToTop: true,
-  defaultVersionShown: '0.1.0'
+  defaultVersionShown: '0.1.0',
+  editUrl: 'https://github.com/freddymu/startup-rules/edit/master/docs/',
 };
 
 module.exports = siteConfig;
