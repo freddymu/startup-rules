@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Intro"
-permalink: https://github.com/freddymu/startup-rules
+title: Intro
 ---
 # Selama bbrp bulan kedepan saya mau share 100 #StartupRules yang saya terapkan
 
