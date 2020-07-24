@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Intro"
+permalink: https://github.com/freddymu/startup-rules
+---
+
 # Selama bbrp bulan kedepan saya mau share 100 #StartupRules yang saya terapkan
 
 Rules ini gabungan dari pengalaman saya berada di ekosistem startup indonesia selama 4 tahun dari
