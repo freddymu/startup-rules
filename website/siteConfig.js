@@ -42,6 +42,9 @@ const siteConfig = {
     // {doc: 'doc4', label: 'API'},
     // {page: 'help', label: 'Help'},
     // {blog: true, label: 'Blog'},
+    // Links to href destination
+    { href: 'https://github.com/freddymu/startup-rules', label: 'GitHub' },
+    { href: 'https://github.com/freddymu/startup-rules', label: 'Download PDF' },
   ],
 
   // If you have users set above, you add it here:
@@ -111,6 +114,9 @@ const siteConfig = {
   scrollToTop: true,
   defaultVersionShown: '0.1.0',
   editUrl: 'https://github.com/freddymu/startup-rules/edit/master/docs/',
+
+  gaTrackingId: 'UA-173538957-1',
+  noIndex: false,
 };
 
 module.exports = siteConfig;
