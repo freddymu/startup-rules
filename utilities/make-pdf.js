@@ -9,7 +9,7 @@ console.log(today);
 
 merge(
   [baseDir + 'cover.pdf', baseDir + `markdown/merge-md-${today}.pdf`],
-  `${baseDir}pdf/startup-rules-${today}.pdf`,
+  `${baseDir}pdf/startup-rules.pdf`, // the file name must be consistent, will be used as external link on website
   function (err) {
     if (err) {
       return console.log(err);
