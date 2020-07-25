@@ -49,7 +49,7 @@ const siteConfig = {
       external: true,
     },
     {
-      href: 'https://github.com/freddymu/startup-rules',
+      href: 'https://github.com/freddymu/startup-rules/raw/master/utilities/pdf/startup-rules.pdf',
       label: 'Download PDF',
       external: true,
     },

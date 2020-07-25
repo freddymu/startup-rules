@@ -6,10 +6,12 @@
 
 <br>
 <br>
-<br>
 
 ### Oleh William Anputra
 
-Last update: <script>document.writeln((new Date()).toDateString());</script>
+<small>Last update: <script>document.writeln((new Date()).toDateString());</script></small>
+
+<small>Cover image by absurd.design</small>
+
 
 <div class="page-break"></div>
