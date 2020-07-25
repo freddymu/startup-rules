@@ -2,7 +2,9 @@
 id: rule-6
 title: Rule 6 - Ide yang bagus biasanya mulai dari founder yang memang sebagai user juga
 sidebar_label: Rule Ke-6
+hide_title: true
 ---
+## Rule 6 - Ide yang bagus biasanya mulai dari founder yang memang sebagai user juga
 
 Secara general, inovasi yang bagus itu datang dari orang yang mengalami masalah itu dan memakai produknya sendiri.
 

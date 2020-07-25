@@ -2,7 +2,9 @@
 id: rule-10
 title: Rule 10 - JANGAN HIRE SECOND BEST, KALAU BISA
 sidebar_label: Rule Ke-10
+hide_title: true
 ---
+## Rule 10 - JANGAN HIRE SECOND BEST, KALAU BISA
 
 Startup DNA itu terbentuk di awal-awal, kamu boleh hire yang bagus tapi perhatikan juga faktor yang lain seperti karakter dan value mereka karena setiap employee baru itu akan affect your culture.
 

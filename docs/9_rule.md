@@ -2,7 +2,9 @@
 id: rule-9
 title: Rule 9 - TARGET PASAR YANG TUMBUH CEPAT DAN DINAMIS
 sidebar_label: Rule Ke-9
+hide_title: true
 ---
+## Rule 9 - TARGET PASAR YANG TUMBUH CEPAT DAN DINAMIS
 
 Banyak entrepreneur target existing market karena "that's where the money is". In my opinion, gak harus selalu begitu.
 

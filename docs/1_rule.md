@@ -2,7 +2,9 @@
 id: rule-1
 title: Rule 1 - Mulai startup itu gampang, tapi mau sukses besarin nya itu jauh lebih susah
 sidebar_label: Rule Ke-1
+hide_title: true
 ---
+## Rule 1 - Mulai startup itu gampang, tapi mau sukses besarin nya itu jauh lebih susah
 
 Duit sekarang bertebaran buat yang mulai startup dan itu memicu lebih banyak startup dan kompetisi makin intense.
 

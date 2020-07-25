@@ -2,7 +2,9 @@
 id: rule-24
 title: Rule 24 - Untuk mencapai tujuan kamu, kamu harus tahu tujuanmu
 sidebar_label: Rule Ke-24
+hide_title: true
 ---
+## Rule 24 - Untuk mencapai tujuan kamu, kamu harus tahu tujuanmu
 
 Kedengarannya simple, tapi ketika sedang menjalani startup akan tiba saat dimana kamu "lupa" arah tujuanmu karena banyak variable variable baru setiap hari yang masuk dalam pikiranmu.
 

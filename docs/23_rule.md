@@ -2,7 +2,9 @@
 id: rule-23
 title: Rule 23 - Selalu hemat
 sidebar_label: Rule Ke-23
+hide_title: true
 ---
+## Rule 23 - Selalu hemat
 
 Benar - benar penting kamu hire orang yang karakternya hemat. Kalau kamu hire tim yang hemat, budaya mu yang di untungkan. Kenapa ?
 

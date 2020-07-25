@@ -2,7 +2,9 @@
 id: rule-2
 title: Rule 2 - Keep it normal aja & keep your health in check
 sidebar_label: Rule Ke-2
+hide_title: true
 ---
+## Rule 2 - Keep it normal aja & keep your health in check
 
 Jadi entrepreneur itu gak normal, tidak normal untuk nolak kesempatan kerja with well paying salary atau relain semua waktu, teman, hubungan dan keluarga demi ngejar ambisi kamu.
 

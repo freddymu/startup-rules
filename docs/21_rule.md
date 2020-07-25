@@ -2,7 +2,9 @@
 id: rule-21
 title: Rule 21 - Kelola modal kerja seolah-olah itu satu-satunya sumber dana kamu
 sidebar_label: Rule Ke-21
+hide_title: true
 ---
+## Rule 21 - Kelola modal kerja seolah-olah itu satu-satunya sumber dana kamu
 
 Early stage startup founders harus bener bener hitung working capital ratio ( Current Assets / Current Liabilities ) karena ratio ini bisa mengindikasikan apakah startup kamu masi ada cash untuk keperluan operational.
 

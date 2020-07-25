@@ -2,7 +2,9 @@
 id: rule-13
 title: Rule 13 - Instead of a free lunch, provide meaningful work
 sidebar_label: Rule Ke-13
+hide_title: true
 ---
+## Rule 13 - Instead of a free lunch, provide meaningful work
 
 Banyak startup mengira harus kasi makan siang gratis, meja billiard buat main, dll karena banyak startup sukses yang lain seperti Facebook & Google.
 

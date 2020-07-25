@@ -2,7 +2,9 @@
 id: rule-17
 title: Rule 17 - Create 2 business plans; an execution plan and an aspirational plan
 sidebar_label: Rule Ke-17
+hide_title: true
 ---
+## Rule 17 - Create 2 business plans; an execution plan and an aspirational plan
 
 Selama saya berada di ekosistem startup dan bantu founders pitching, saya lebih banyak melihat founders present bisnis plan yang "aspirational"
 

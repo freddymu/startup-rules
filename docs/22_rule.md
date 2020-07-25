@@ -2,7 +2,9 @@
 id: rule-22
 title: Rule 22 - Cara kamu mendanai venturemu dan mencari investor bergantung dengan business model kamu
 sidebar_label: Rule Ke-22
+hide_title: true
 ---
+## Rule 22 - Cara kamu mendanai venturemu dan mencari investor bergantung dengan business model kamu
 
 Tidak semua business model sama dan kamu harus ngerti cara mendanai yang cocok untuk bisnis mu. Tentu kamu harus make sure "burn rate" kamu as low as possible tapi pertanyaannya seberapa low ?
 

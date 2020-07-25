@@ -2,7 +2,11 @@
 id: intro
 title: Profil Narasumber
 sidebar_label: Profil Narasumber
+hide_title: true
 ---
+# Startup Rules
+
+## Profil Narasumber
 
 ## William Anputra
 

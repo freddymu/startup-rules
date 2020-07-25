@@ -2,7 +2,9 @@
 id: rule-15
 title: Rule 15 - Becareful with unnecessary meetings
 sidebar_label: Rule Ke-15
+hide_title: true
 ---
+## Rule 15 - Becareful with unnecessary meetings
 
 Misalkan kamu seorang founder yang suka meeting dan kamu bawa 3 orang dari tim marketing setiap 2 hari sekali dan 1 sesi meeting berlangsung selama 1 jam.
 
