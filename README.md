@@ -1,17 +1,25 @@
-# Disclaimer
+# Startup Rules
 
-Saya hanya mengkompilasikan postingan dari LinkedIn apa adanya.
+Panduan Penggiat Startup.
+
+Dapat dibaca melalui smartphone [https://startuprules.netlify.app](https://startuprules.netlify.app)
+
+Atau [download latest ebooknya disini.](https://github.com/freddymu/startup-rules/raw/master/utilities/pdf/startup-rules.pdf)
+
+## Disclaimer
+
+Saya hanya mengkompilasikan postingan dari LinkedIn apa adanya. Dan sudah ijin kepada penulisnya.
 
 ## How To
+
+### Build Cover PDF
+
+- `npx md-to-pdf utilities/cover.md --config=md-to-pdf-cover.config.js`
 
 ### Build New PDF
 
 - `npm utitilies/merge-md.js`
 - `npm utilities/make-pdf.js`
-
-### Build Cover PDF
-
-- `npx md-to-pdf utilities/cover.md --config=md-to-pdf-cover.config.js`
 
 ### Manual Convert From Markdown to PDF
 
