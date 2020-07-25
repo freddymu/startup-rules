@@ -43,8 +43,16 @@ const siteConfig = {
     // {page: 'help', label: 'Help'},
     // {blog: true, label: 'Blog'},
     // Links to href destination
-    { href: 'https://github.com/freddymu/startup-rules', label: 'GitHub' },
-    { href: 'https://github.com/freddymu/startup-rules', label: 'Download PDF' },
+    {
+      href: 'https://github.com/freddymu/startup-rules',
+      label: 'GitHub',
+      external: true,
+    },
+    {
+      href: 'https://github.com/freddymu/startup-rules',
+      label: 'Download PDF',
+      external: true,
+    },
   ],
 
   // If you have users set above, you add it here:
@@ -117,6 +125,16 @@ const siteConfig = {
 
   gaTrackingId: 'UA-173538957-1',
   noIndex: false,
+
+//   algolia: {
+//     apiKey: '0ad293c64dfd592ca157e258850b6133',
+//     indexName: 'startup-rules',
+//     placeholder: 'Ask me something',
+//     algoliaOptions: {}, // Optional, if provided by Algolia
+//   },
+
+  twitter: true,
+  //twitterUsername: 'FredEatWorld'
 };
 
 module.exports = siteConfig;
