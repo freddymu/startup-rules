@@ -6,6 +6,8 @@ Dapat dibaca melalui smartphone [https://startuprules.netlify.app](https://start
 
 Atau [download latest ebooknya disini.](https://github.com/freddymu/startup-rules/raw/master/utilities/pdf/startup-rules.pdf)
 
+> Konten akan diupdate jika narasumber melakukan posting terbaru terkait dengan Startup Rules.
+
 ## Disclaimer
 
 Saya hanya mengkompilasikan postingan dari LinkedIn apa adanya. Dan sudah ijin kepada penulisnya.
