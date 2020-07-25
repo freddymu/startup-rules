@@ -18,4 +18,5 @@ Kamu harus menjadi pintar secepat mungkin dengan cara bikin banyak tes yang mura
 
 Pakai feeling mu, tapi di bantu dengan informasi yang akurat. The goal is to make your assumption as accurate as possible.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6692277142614511616-DsVZ](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6692277142614511616-DsVZ)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6692277142614511616-DsVZ](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6692277142614511616-DsVZ)

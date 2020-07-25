@@ -20,4 +20,5 @@ For example: tahun 1997 ketika steve jobs balik ke apple, sebenarnya timnya lagi
 
 Jangan terlalu terbawa dengan Grand vision kamu tanpa ngetes asumsi kamu ini bener atau salah. Pakai waktu mu ketika masi early stage untuk develop cheap and agile "trial error" experiment sebelum kamu mau lari.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6682130291110346752-o5TK](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6682130291110346752-o5TK)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6682130291110346752-o5TK](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6682130291110346752-o5TK)

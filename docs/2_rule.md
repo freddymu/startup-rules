@@ -18,4 +18,5 @@ Orang pasti skeptik kalau kamu baru mulai, kecuali kamu memang sudah ada proven 
 
 Keep it normal aja dulu sampai kamu sudah benar2 kenal mereka baru jelasin big vision kamu.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startup-founder-linkedin-activity-6680673183579959296-o-zs](https://www.linkedin.com/posts/william-anputra-11904586_startup-founder-linkedin-activity-6680673183579959296-o-zs)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startup-founder-linkedin-activity-6680673183579959296-o-zs](https://www.linkedin.com/posts/william-anputra-11904586_startup-founder-linkedin-activity-6680673183579959296-o-zs)

@@ -16,4 +16,5 @@ Para pemimpin harus bisa memberikan environment yang cocok untuk bawahan mereka
 
 Dalam bisnis yang penuh risiko seperti startup , terlalu banyak ego — terlalu banyak yang "solo" itu akan bikin startupmu hancur.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startupindonesia-activity-6686109034782830592-z6lN](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startupindonesia-activity-6686109034782830592-z6lN)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startupindonesia-activity-6686109034782830592-z6lN](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startupindonesia-activity-6686109034782830592-z6lN)

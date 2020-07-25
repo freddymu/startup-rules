@@ -4,7 +4,6 @@ title: Profil Narasumber
 sidebar_label: Profil Narasumber
 hide_title: true
 ---
-# Startup Rules
 
 ## Profil Narasumber
 
@@ -25,4 +24,5 @@ Rules ini gabungan dari pengalaman saya berada di ekosistem startup indonesia se
 
 Kamu tidak harus 100% setuju dengan rules ini tapi do not ignore these rules karena rules ini are battle tested dan bisa kamu adjust sendiri
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-activity-6679948406485606400-uT5e](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-activity-6679948406485606400-uT5e)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-activity-6679948406485606400-uT5e](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-activity-6679948406485606400-uT5e)`

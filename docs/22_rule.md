@@ -14,4 +14,5 @@ Untuk early stage startups jangan asal mencari investor, cari investor yang mema
 
 Kamu hanya akan menghabiskan waktumu kalau pitch ke investor salah dan kemungkinan besar tidak mendapatkan operational knowledge yang kamu perlu
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6691190028565143552-1KEW](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6691190028565143552-1KEW)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6691190028565143552-1KEW](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6691190028565143552-1KEW)

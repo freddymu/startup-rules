@@ -22,4 +22,5 @@ Nanti setelah teknologi dan pengetahuan kamu lebih effisien ( hasilnya cost kamu
 
 Coba untuk tidak mengsubsidi "mass market" dengan venture capital sebelum yakin strategi kamu bisa membantu kamu dapet volume yang kamu mau.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_tesla-startuprules-linkedin-activity-6684304608053071872-2E6V](https://www.linkedin.com/posts/william-anputra-11904586_tesla-startuprules-linkedin-activity-6684304608053071872-2E6V)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_tesla-startuprules-linkedin-activity-6684304608053071872-2E6V](https://www.linkedin.com/posts/william-anputra-11904586_tesla-startuprules-linkedin-activity-6684304608053071872-2E6V)

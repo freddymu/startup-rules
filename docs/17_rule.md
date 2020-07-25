@@ -24,4 +24,5 @@ Prediksi masa depan early stage itu kaya "Baca garis tangan" manusia. Tidak akan
 
 Kamu harus bisa bikin plan untuk 3 tahun kedepan walaupun rencana 3 tahun itu engga akurat tapi setidaknya ini bisa memaksa kamu untuk merenungkan berapa banyak investment yang kamu perlukan untuk achieve aspirational plan kamu.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_zoom-startuprules-linkedin-activity-6688653264487100416-NWJG](https://www.linkedin.com/posts/william-anputra-11904586_zoom-startuprules-linkedin-activity-6688653264487100416-NWJG)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_zoom-startuprules-linkedin-activity-6688653264487100416-NWJG](https://www.linkedin.com/posts/william-anputra-11904586_zoom-startuprules-linkedin-activity-6688653264487100416-NWJG)

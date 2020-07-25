@@ -22,4 +22,5 @@ Contohnya daripada bilang "Mau buat fitur online video chat", you should say "Ma
 
 Aim for the stars. Even if you miss, you'll land among the stars.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6681397950960287744-deqh](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6681397950960287744-deqh)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6681397950960287744-deqh](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6681397950960287744-deqh)

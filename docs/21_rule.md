@@ -14,4 +14,5 @@ Mau grow bisnis itu perlu cash dan cara yang paling "murah" untuk grow adalah de
 
 Percaya deh kalau kamu bisa manage working capital kamu secara effisien, ini kasi signal ke investor bahwa kamu ini "The real deal" dan ini bisa bantu kamu dalam proses raise fund kamu.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6690820090964914176-SWoB](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6690820090964914176-SWoB)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6690820090964914176-SWoB](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6690820090964914176-SWoB)

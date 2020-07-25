@@ -24,4 +24,5 @@ Kalau kamu grow bisnis kamu dengan "untested assumptions", kecuali kamu hoki kem
 
 Tes asumsi mu dulu sebelum GO ALL IN.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-linkedin-startup-activity-6681767885272154112-xa41](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-linkedin-startup-activity-6681767885272154112-xa41)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-linkedin-startup-activity-6681767885272154112-xa41](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-linkedin-startup-activity-6681767885272154112-xa41)

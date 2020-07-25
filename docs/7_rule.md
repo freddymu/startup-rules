@@ -26,4 +26,5 @@ Day by day you are bleeding menunggu teknologinya selesai padahal early stage st
 
 Prove your tech then scale.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_rule-7-jangan-scale-teknologi-kalau-belum-activity-6683579832787439616-Tw-a](https://www.linkedin.com/posts/william-anputra-11904586_rule-7-jangan-scale-teknologi-kalau-belum-activity-6683579832787439616-Tw-a)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_rule-7-jangan-scale-teknologi-kalau-belum-activity-6683579832787439616-Tw-a](https://www.linkedin.com/posts/william-anputra-11904586_rule-7-jangan-scale-teknologi-kalau-belum-activity-6683579832787439616-Tw-a)

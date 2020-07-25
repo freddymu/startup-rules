@@ -16,4 +16,5 @@ Banyak kasus dimana meeting akhirnya berujung tidak produktif karena tidak ada a
 
 Di early stage startup, kamu mau meeting yang singkat dan padat karena time is literally money untuk early startups and you are burning money each month.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6687203706670329856-F69e](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6687203706670329856-F69e)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6687203706670329856-F69e](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6687203706670329856-F69e)

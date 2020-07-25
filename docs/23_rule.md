@@ -18,4 +18,5 @@ Banyak startup gagal karena hiring yang tidak effisien dan kamu banyak mendengar
 
 Sebagai CEO apa yang kamu lakukan akan di perhatikan dan di ikuti oleh tim mu, yang harus mempraktekan sifat "hemat" harus dari CEO ke bawah.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6691544822836293632-HY7B](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6691544822836293632-HY7B)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6691544822836293632-HY7B](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6691544822836293632-HY7B)

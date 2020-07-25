@@ -24,4 +24,5 @@ Banyak yang suka bikin asumsi yang terlalu berimajinasi dan akhirnya jatuh.
 
 Honestly figure out your unit economics.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6690102893896450048-vzzi](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6690102893896450048-vzzi)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6690102893896450048-vzzi](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6690102893896450048-vzzi)

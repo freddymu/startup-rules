@@ -20,4 +20,5 @@ Problemnya karena perang harga, yang lain juga harus ikut atau mati dan banyak d
 
 Si pembeli juga mungkin hanya mau beli karena harganya di banting bukan karena barang bagus.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-activity-6679948406485606400-uT5e](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-activity-6679948406485606400-uT5e)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-activity-6679948406485606400-uT5e](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-activity-6679948406485606400-uT5e)

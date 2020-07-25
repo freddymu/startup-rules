@@ -22,4 +22,5 @@ Objektifnya adalah menemukan orang-orang dengan ambisi tinggi, cerdas, grit, nya
 
 And remember, the least expensive top performing recruit usually are the ones you already have
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-linkedin-foodforthought-activity-6684666989954260992-GVRR](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-linkedin-foodforthought-activity-6684666989954260992-GVRR)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-linkedin-foodforthought-activity-6684666989954260992-GVRR](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-linkedin-foodforthought-activity-6684666989954260992-GVRR)

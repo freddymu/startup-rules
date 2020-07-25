@@ -20,4 +20,5 @@ Best practice untuk early stage adalah dengan fokus cash burn dari kedua sudut p
 
 Jangan hanya memposting angka setiap bulan; check your numbes dan petunjuk tentang cara meningkatkan bisnis Anda.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6688290880983568384-ww7p](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6688290880983568384-ww7p)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6688290880983568384-ww7p](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6688290880983568384-ww7p)

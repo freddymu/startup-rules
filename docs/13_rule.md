@@ -20,4 +20,5 @@ Jadi hati hati kalau kamu as an early stage founder mau buat kebijakan kebijakan
 
 Kamu mau orang yang memang 1 visi sama kamu bukan yang masuk perusahaan karena free lunch.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6686471406915588096-GdwJ](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6686471406915588096-GdwJ)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6686471406915588096-GdwJ](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6686471406915588096-GdwJ)

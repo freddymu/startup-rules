@@ -20,4 +20,5 @@ Tidak ada demokrasi dalam pengembangan produk dan membutuhkan leader yang sediki
 
 Untuk membuat produk hebat membutuhkan "obsesi".
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6683934667864993792-HLUd](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6683934667864993792-HLUd)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6683934667864993792-HLUd](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6683934667864993792-HLUd)

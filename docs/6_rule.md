@@ -24,4 +24,5 @@ CEO adalah seseorang yang membawa kepemimpinan, strategi, dan operasi untuk memb
 
 Kamu mungkin bisa 3 3 nya tapi kemungkinan kecil karena bener2 beda role dan kompetensi,
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-linkedin-foodforthought-activity-6683217430535380992-fcVF](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-linkedin-foodforthought-activity-6683217430535380992-fcVF)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-linkedin-foodforthought-activity-6683217430535380992-fcVF](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-linkedin-foodforthought-activity-6683217430535380992-fcVF)

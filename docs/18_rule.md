@@ -26,4 +26,5 @@ komponen koponen itu sehingga kamumengerti karena tidak semua founder datang dar
 
 Jangan hanya sekedar baca angka financial kamu, pelajari dan go deep. Numbers don't lie dan kamu bisa melihat situasi bisnis kamu sesuai fakta bukan pake "feeling".
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6689008096284680192-fI8y](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6689008096284680192-fI8y)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6689008096284680192-fI8y](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6689008096284680192-fI8y)

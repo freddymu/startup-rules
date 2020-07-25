@@ -18,4 +18,5 @@ Kalau mirip artinya startup ini timnya solid karena semuanya " on the same page"
 
 Investor harus yakin semua yang kamu claim itu real, dari tim kamu , adviser kamu , teknologi kamu dan juga mau tahu apakah kamu "know what you don't know" and hire the right people to do the job.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6686841330221621248-CD31](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6686841330221621248-CD31)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6686841330221621248-CD31](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6686841330221621248-CD31)

@@ -26,4 +26,5 @@ Kedua, net income atau profit itu angka subjektif karena bergantung dengan asums
 
 For early-stage startups cash should be all that matters.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_amazon-startuprules-linkedin-activity-6689370543428386816-Mq5l](https://www.linkedin.com/posts/william-anputra-11904586_amazon-startuprules-linkedin-activity-6689370543428386816-Mq5l)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_amazon-startuprules-linkedin-activity-6689370543428386816-Mq5l](https://www.linkedin.com/posts/william-anputra-11904586_amazon-startuprules-linkedin-activity-6689370543428386816-Mq5l)

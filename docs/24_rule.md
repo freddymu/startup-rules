@@ -18,4 +18,5 @@ Pilih metric metric yang penting saja untuk analisa supaya bisa melihat apakah s
 
 Jangan mencoba untuk track semua metric yang bisa karena nanti tim kamu bisa "data overload" karena di awal startup kemungkinan besar tim kamu masi kecil untuk handle terlalu banyak data.
 
-Source: [https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6691914763452211200-EKUA](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6691914763452211200-EKUA)
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6691914763452211200-EKUA](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6691914763452211200-EKUA)
