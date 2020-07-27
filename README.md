@@ -26,3 +26,14 @@ Saya hanya mengkompilasikan postingan dari LinkedIn apa adanya. Dan sudah ijin k
 ### Manual Convert From Markdown to PDF
 
 - `cat docs/0_intro.md docs/{1..25}_rule.md >> startup-rules-20200725.md && npx md-to-pdf startup-rules-20200725.md --config-file=md-to-pdf.config.js`
+
+## Workflow
+
+Ketika ada posting baru maka berikut langkah-langkah untuk melakukan kompilasinya:
+
+1 Buat file [n]_rule.md di dalam folder docs
+2 Dari root folder jalankan perintah `npm utilities/merge-md.js` untuk menggabungkan semua file .md ke dalam satu file .md lalu di jadikan file pdf
+3 Dari root folder jalankan perintah `npm utilities/make-pdf.js` untuk menggabungkan cover.pdf dengan pdf di langkah ke-2
+4 Tambahkan rule-[n] di file website/sidebars.js agar postingan baru dapat diakses melalui website
+5 Masuk ke folder website lalu jalankan perintah `yarn build && npx netlify deploy --prod` untuk membuild file md menjadi file html dan deploy ke server netlify
+6 Commit dan push perubahan agar file pdf terbaru dapat didownload dari halaman website
