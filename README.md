@@ -37,3 +37,10 @@ Ketika ada posting baru maka berikut langkah-langkah untuk melakukan kompilasiny
 4 Tambahkan rule-[n] di file website/sidebars.js agar postingan baru dapat diakses melalui website
 5 Masuk ke folder website lalu jalankan perintah `yarn build && npx netlify deploy --prod` untuk membuild file md menjadi file html dan deploy ke server netlify
 6 Commit dan push perubahan agar file pdf terbaru dapat didownload dari halaman website
+
+## Technology Used
+
+- Docusaurus 1.14.x untuk membuat static web dari markdown
+- Marked.js untuk mengubah file Markdown ke HTML
+- Puppetter, Chrome headless browser. Digunakan untuk mengubah file HTML ke PDF
+- PDFBox untuk merge cover.pdf dengan content PDF lainnya
