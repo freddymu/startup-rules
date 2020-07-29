@@ -22,13 +22,13 @@ Saya hanya mengkompilasikan postingan dari LinkedIn apa adanya. Dan sudah ijin k
 
 Ketika ada posting baru maka berikut langkah-langkah untuk melakukan kompilasinya:
 
-1 Buat file [n]_rule.md di dalam folder docs
-2 Dari root folder jalankan perintah `node utilities/merge-md.js` untuk menggabungkan semua file .md ke dalam satu file .md lalu di jadikan file pdf
-3 Generate cover dengan tanggal yang baru `npx md-to-pdf utilities/cover.md --config-file=md-to-pdf-cover.config.js`
-4 Dari root folder jalankan perintah `node utilities/make-pdf.js` untuk menggabungkan cover.pdf dengan pdf di langkah ke-2
-5 Tambahkan rule-[n] di file `website/sidebars.js` agar postingan baru dapat diakses melalui website
-6 Masuk ke folder website lalu jalankan perintah `yarn build && npx netlify deploy --prod` untuk membuild file md menjadi file html dan deploy ke server netlify
-7 Commit dan push perubahan agar file pdf terbaru dapat didownload dari halaman website
+1. Buat file [n]_rule.md di dalam folder docs
+2. Dari root folder jalankan perintah `node utilities/merge-md.js` untuk menggabungkan semua file .md ke dalam satu file .md lalu di jadikan file pdf
+3. Generate cover dengan tanggal yang baru `npx md-to-pdf utilities/cover.md --config-file=md-to-pdf-cover.config.js`
+4. Dari root folder jalankan perintah `node utilities/make-pdf.js` untuk menggabungkan cover.pdf dengan pdf di langkah ke-2
+5. Tambahkan rule-[n] di file `website/sidebars.js` agar postingan baru dapat diakses melalui website
+6. Masuk ke folder website lalu jalankan perintah `yarn build && npx netlify deploy --prod` untuk membuild file md menjadi file html dan deploy ke server netlify
+7. Commit dan push perubahan agar file pdf terbaru dapat didownload dari halaman website
 
 ## Technology Used
 
