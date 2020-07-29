@@ -1,7 +1,7 @@
 {
     "docs": {
         "Introduction": ["intro"],
-        "Rules": [
+        "Rules 1 - 10": [
             "rule-1",
             "rule-2",
             "rule-3",
@@ -11,7 +11,9 @@
             "rule-7",
             "rule-8",
             "rule-9",
-            "rule-10",
+            "rule-10"
+        ],
+        "Rules 11 - 20": [
             "rule-11",
             "rule-12",
             "rule-13",
@@ -21,7 +23,9 @@
             "rule-17",
             "rule-18",
             "rule-19",
-            "rule-20",
+            "rule-20"
+        ],
+        "Rules 21 - 30": [
             "rule-21",
             "rule-22",
             "rule-23",
