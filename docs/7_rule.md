@@ -1,10 +1,10 @@
 ---
 id: rule-7
-title: Rule 7 - JANGAN SCALE TEKNOLOGI KALAU BELUM PROVEN
+title: Rule 7 - Jangan Scale Teknologi Kalau Belum Proven
 sidebar_label: Rule Ke-7
 hide_title: true
 ---
-## Rule 7 - JANGAN SCALE TEKNOLOGI KALAU BELUM PROVEN
+## Rule 7 - Jangan Scale Teknologi Kalau Belum Proven
 
 Banyak founder merasa teknologi mereka sudah stabil dan mau coba scale. Maksudnya scale itu kalian mau marketing besar2an.
 

@@ -1,10 +1,10 @@
 ---
 id: rule-8
-title: Rule 8 - FOKUS SEPERTI ORANG YANG TERBOSESI
+title: Rule 8 - Fokus Seperti Orang Yang Terobsesi
 sidebar_label: Rule Ke-8
 hide_title: true
 ---
-## Rule 8 - FOKUS SEPERTI ORANG YANG TERBOSESI
+## Rule 8 - Fokus Seperti Orang Yang Terobsesi
 
 Kalau kamu mau stand apart from everybody, kamu harus lebih terobsesi dengan product atau service yang kamu buat.
 
