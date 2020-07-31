@@ -13,7 +13,7 @@ Founder at jokii. Helping food related UMKM win in this very competitive world
 
 Linkedin profile: [https://www.linkedin.com/in/william-anputra-11904586/](https://www.linkedin.com/in/william-anputra-11904586/)
 
-## Selama bbrp bulan kedepan saya mau share 100 #StartupRules yang saya terapkan
+## Selama bbrp bulan kedepan saya mau share 50 #StartupRules yang saya terapkan
 
 Rules ini gabungan dari pengalaman saya berada di ekosistem startup indonesia selama 4 tahun dari
 
