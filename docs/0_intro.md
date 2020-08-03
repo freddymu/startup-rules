@@ -2,10 +2,12 @@
 id: intro
 title: Profil Narasumber
 sidebar_label: Profil Narasumber
-hide_title: true
+hide_title: false
 ---
 
 ## Profil Narasumber
+
+> Konten akan selalu diupdate sesuai dengan yang diposting oleh narasumber. Jika ada ketidaksesuaian silahkan [posting isu disini](https://github.com/freddymu/startup-rules/issues)
 
 ## William Anputra
 
