@@ -1,5 +1,5 @@
 ---
-id: rule-13
+id: rule-13-instead-of-a-free-lunch-provide-meaningful-work
 title: Rule 13 - Instead of a free lunch, provide meaningful work
 sidebar_label: Rule Ke-13
 hide_title: true

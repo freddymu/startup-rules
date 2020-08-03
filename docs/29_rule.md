@@ -1,5 +1,5 @@
 ---
-id: rule-29
+id: rule-29-if-you-choose-venture-capital-pick-the-right-type-of-investor
 title: Rule 29 - If you choose venture capital, pick the right type of investor
 sidebar_label: Rule Ke-29
 hide_title: true

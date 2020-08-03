@@ -1,5 +1,5 @@
 ---
-id: rule-18
+id: rule-18-know-your-financial-numbers-and-their-interdependencies-by-heart
 title: Rule 18 - Know your financial numbers and their interdependencies by heart
 sidebar_label: Rule Ke-18
 hide_title: true

@@ -1,5 +1,5 @@
 ---
-id: rule-5
+id: rule-5-kebanyakan-gagal-karena-eksekusi-bukan-karena-inovasi-yang-jelek
 title: Rule 5 - Kebanyakan gagal karena eksekusi, bukan karena inovasi yang jelek
 sidebar_label: Rule Ke-5
 hide_title: true

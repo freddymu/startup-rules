@@ -1,5 +1,5 @@
 ---
-id: rule-20
+id: rule-20-unit-economics-tell-you-whether-you-have-a-business
 title: Rule 20 - Unit economics tell you whether you have a business
 sidebar_label: Rule Ke-20
 hide_title: true

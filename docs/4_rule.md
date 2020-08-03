@@ -1,5 +1,5 @@
 ---
-id: rule-4
+id: rule-4-mulai-dari-kecil-tapi-tetap-ambisius
 title: Rule 4 - Mulai dari kecil tapi tetap ambisius
 sidebar_label: Rule Ke-4
 hide_title: true

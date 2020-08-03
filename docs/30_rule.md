@@ -1,5 +1,5 @@
 ---
-id: rule-30
+id: rule-30-conduct-detailed-due-diligence-on-your-investors
 title: Rule 30 - Conduct detailed due diligence on your investors
 sidebar_label: Rule Ke-30
 hide_title: true

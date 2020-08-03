@@ -1,5 +1,5 @@
 ---
-id: rule-22
+id: rule-22-cara-kamu-mendanai-venturemu-dan-mencari-investor-bergantung-dengan-business-model-kamu
 title: Rule 22 - Cara kamu mendanai venturemu dan mencari investor bergantung dengan business model kamu
 sidebar_label: Rule Ke-22
 hide_title: true

@@ -1,5 +1,5 @@
 ---
-id: rule-8
+id: rule-8-fokus-seperti-orang-yang-terobsesi
 title: Rule 8 - Fokus Seperti Orang Yang Terobsesi
 sidebar_label: Rule Ke-8
 hide_title: true

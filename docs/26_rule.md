@@ -1,5 +1,5 @@
 ---
-id: rule-26
+id: rule-26-simpan-kejutan-untuk-ulang-tahun-bukan-untuk-shareholders
 title: Rule 26 - Simpan kejutan untuk ulang tahun, bukan untuk shareholders
 sidebar_label: Rule Ke-26
 hide_title: true

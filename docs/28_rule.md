@@ -1,5 +1,5 @@
 ---
-id: rule-28
+id: rule-28-avoid-venture-capital-unless-you-absolutely-need-it
 title: Rule 28 - Avoid venture capital unless you absolutely need it
 sidebar_label: Rule Ke-28
 hide_title: true

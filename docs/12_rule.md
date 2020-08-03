@@ -1,5 +1,5 @@
 ---
-id: rule-12
+id: rule-12-manage-your-team-like-a-jazz-band
 title: Rule 12 - Manage your team like a jazz band
 sidebar_label: Rule Ke-12
 hide_title: true

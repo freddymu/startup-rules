@@ -1,5 +1,5 @@
 ---
-id: rule-7
+id: rule-7-jangan-scale-teknologi-kalau-belum-proven
 title: Rule 7 - Jangan Scale Teknologi Kalau Belum Proven
 sidebar_label: Rule Ke-7
 hide_title: true

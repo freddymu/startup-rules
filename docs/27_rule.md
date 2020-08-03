@@ -1,6 +1,6 @@
 ---
-id: rule-27
-title: Rule 27 - Don't accept money from strangers.
+id: rule-27-dont-accept-money-from-strangers
+title: Rule 27 - Don't accept money from strangers
 sidebar_label: Rule Ke-27
 hide_title: true
 ---

@@ -1,5 +1,5 @@
 ---
-id: rule-23
+id: rule-23-selalu-hemat
 title: Rule 23 - Selalu hemat
 sidebar_label: Rule Ke-23
 hide_title: true

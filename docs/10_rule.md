@@ -1,5 +1,5 @@
 ---
-id: rule-10
+id: rule-10-jangan-hire-second-best-kalau-bisa
 title: Rule 10 - Jangan Hire Second Best, Kalau Bisa
 sidebar_label: Rule Ke-10
 hide_title: true

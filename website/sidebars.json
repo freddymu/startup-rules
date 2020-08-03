@@ -2,42 +2,44 @@
     "docs": {
         "Introduction": ["intro"],
         "Rules 1 - 10": [
-            "rule-1",
-            "rule-2",
-            "rule-3",
-            "rule-4",
-            "rule-5",
-            "rule-6",
-            "rule-7",
-            "rule-8",
-            "rule-9",
-            "rule-10"
+            "rule-1-mulai-startup-itu-gampang-tapi-mau-sukses-besarin-nya-itu-jauh-lebih-susah",
+            "rule-2-keep-it-normal-aja-and-keep-your-health-in-check",
+            "rule-3-kejer-improvement-yang-besar-bukan-hanya-1x-improvement-kalau-bisa-lebih",
+            "rule-4-mulai-dari-kecil-tapi-tetap-ambisius",
+            "rule-5-kebanyakan-gagal-karena-eksekusi-bukan-karena-inovasi-yang-jelek",
+            "rule-6-ide-yang-bagus-biasanya-mulai-dari-founder-yang-memang-sebagai-user-juga",
+            "rule-7-jangan-scale-teknologi-kalau-belum-proven",
+            "rule-8-fokus-seperti-orang-yang-terobsesi",
+            "rule-9-target-pasar-yang-tumbuh-cepat-dan-dinamis",
+            "rule-10-jangan-hire-second-best-kalau-bisa"
         ],
         "Rules 11 - 20": [
-            "rule-11",
-            "rule-12",
-            "rule-13",
-            "rule-14",
-            "rule-15",
-            "rule-16",
-            "rule-17",
-            "rule-18",
-            "rule-19",
-            "rule-20"
+            "rule-11-lebih-baik-hire-part-time-expert-daripada-full-time-newbie",
+            "rule-12-manage-your-team-like-a-jazz-band",
+            "rule-13-instead-of-a-free-lunch-provide-meaningful-work",
+            "rule-14-tim-professional-dan-solid-lebih-mudah-dapet-investment",
+            "rule-15-becareful-with-unnecessary-meetings",
+            "rule-16-use-your-financials-to-tell-your-story",
+            "rule-17-create-2-business-plans-an-execution-plan-and-an-aspirational-plan",
+            "rule-18-know-your-financial-numbers-and-their-interdependencies-by-heart",
+            "rule-19-net-income-itu-subjektif-tapi-cash-flow-itu-fakta",
+            "rule-20-unit-economics-tell-you-whether-you-have-a-business"
         ],
         "Rules 21 - 30": [
-            "rule-21",
-            "rule-22",
-            "rule-23",
-            "rule-24",
-            "rule-25",
-            "rule-26",
-            "rule-27",
-            "rule-28",
-            "rule-29",
-            "rule-30"
+            "rule-21-kelola-modal-kerja-seolaholah-itu-satusatunya-sumber-dana-kamu",
+            "rule-22-cara-kamu-mendanai-venturemu-dan-mencari-investor-bergantung-dengan-business-model-kamu",
+            "rule-23-selalu-hemat",
+            "rule-24-untuk-mencapai-tujuan-kamu-kamu-harus-tahu-tujuanmu",
+            "rule-25-hatihati-dengan-asumsi-mu",
+            "rule-26-simpan-kejutan-untuk-ulang-tahun-bukan-untuk-shareholders",
+            "rule-27-dont-accept-money-from-strangers",
+            "rule-28-avoid-venture-capital-unless-you-absolutely-need-it",
+            "rule-29-if-you-choose-venture-capital-pick-the-right-type-of-investor",
+            "rule-30-conduct-detailed-due-diligence-on-your-investors"
         ],
-        "Rules 31 - 40":[],
-        "Rules 41 - 50":[]
+        "Rules 31 - 40": [
+            "rule-31-deal-directly-with-the-decision-makers"
+        ],
+        "Rules 41 - 50": []
     }
 }

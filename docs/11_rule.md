@@ -1,5 +1,5 @@
 ---
-id: rule-11
+id: rule-11-lebih-baik-hire-part-time-expert-daripada-full-time-newbie
 title: Rule 11 - Lebih baik hire part time expert, daripada full time newbie
 sidebar_label: Rule Ke-11
 hide_title: true

@@ -1,5 +1,5 @@
 ---
-id: rule-2
+id: rule-2-keep-it-normal-aja-and-keep-your-health-in-check
 title: Rule 2 - Keep it normal aja & keep your health in check
 sidebar_label: Rule Ke-2
 hide_title: true

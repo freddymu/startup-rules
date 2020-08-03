@@ -1,5 +1,5 @@
 ---
-id: rule-16
+id: rule-16-use-your-financials-to-tell-your-story
 title: Rule 16 - Use your financials to tell your story
 sidebar_label: Rule Ke-16
 hide_title: true

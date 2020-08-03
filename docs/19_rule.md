@@ -1,5 +1,5 @@
 ---
-id: rule-19
+id: rule-19-net-income-itu-subjektif-tapi-cash-flow-itu-fakta
 title: Rule 19 - Net income itu subjektif, tapi cash flow itu fakta
 sidebar_label: Rule Ke-19
 hide_title: true

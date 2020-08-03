@@ -1,5 +1,5 @@
 ---
-id: rule-9
+id: rule-9-target-pasar-yang-tumbuh-cepat-dan-dinamis
 title: Rule 9 - Target Pasar Yang Tumbuh Cepat dan Dinamis
 sidebar_label: Rule Ke-9
 hide_title: true

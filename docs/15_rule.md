@@ -1,5 +1,5 @@
 ---
-id: rule-15
+id: rule-15-becareful-with-unnecessary-meetings
 title: Rule 15 - Becareful with unnecessary meetings
 sidebar_label: Rule Ke-15
 hide_title: true

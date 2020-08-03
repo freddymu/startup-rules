@@ -1,5 +1,5 @@
 ---
-id: rule-14
+id: rule-14-tim-professional-dan-solid-lebih-mudah-dapet-investment
 title: Rule 14 - Tim professional dan solid lebih mudah dapet investment
 sidebar_label: Rule Ke-14
 hide_title: true

@@ -1,5 +1,5 @@
 ---
-id: rule-1
+id: rule-1-mulai-startup-itu-gampang-tapi-mau-sukses-besarin-nya-itu-jauh-lebih-susah
 title: Rule 1 - Mulai startup itu gampang, tapi mau sukses besarin nya itu jauh lebih susah
 sidebar_label: Rule Ke-1
 hide_title: true

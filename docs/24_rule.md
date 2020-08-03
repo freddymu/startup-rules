@@ -1,5 +1,5 @@
 ---
-id: rule-24
+id: rule-24-untuk-mencapai-tujuan-kamu-kamu-harus-tahu-tujuanmu
 title: Rule 24 - Untuk mencapai tujuan kamu, kamu harus tahu tujuanmu
 sidebar_label: Rule Ke-24
 hide_title: true

@@ -1,5 +1,5 @@
 ---
-id: rule-25
+id: rule-25-hatihati-dengan-asumsi-mu
 title: Rule 25 - Hati-hati dengan asumsi mu
 sidebar_label: Rule Ke-25
 hide_title: true

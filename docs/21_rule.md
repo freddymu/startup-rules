@@ -1,5 +1,5 @@
 ---
-id: rule-21
+id: rule-21-kelola-modal-kerja-seolaholah-itu-satusatunya-sumber-dana-kamu
 title: Rule 21 - Kelola modal kerja seolah-olah itu satu-satunya sumber dana kamu
 sidebar_label: Rule Ke-21
 hide_title: true
