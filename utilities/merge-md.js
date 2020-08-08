@@ -60,7 +60,7 @@ files.forEach((file) => {
   console.log(titleSlug);
 
   // remove front Matter metadata
-  fileContent = fileContent.replace(frontMatterMetadata, '## ' + title);
+  fileContent = fileContent.replace(frontMatterMetadata, '\n## ' + title);
 
   // add page break
   fileContent += `\n<div class="page-break"></div>\n`;
