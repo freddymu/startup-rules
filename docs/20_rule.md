@@ -2,9 +2,8 @@
 id: rule-20-unit-economics-tell-you-whether-you-have-a-business
 title: Rule 20 - Unit economics tell you whether you have a business
 sidebar_label: Rule Ke-20
-hide_title: true
+hide_title: false
 ---
-## Rule 20 - Unit economics tell you whether you have a business
 
 Konsep unit economics itu konsep yang simple banget. Untuk setiap penjualan atau transaksi, kamu untung apa engga ?
 

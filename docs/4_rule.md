@@ -2,9 +2,8 @@
 id: rule-4-mulai-dari-kecil-tapi-tetap-ambisius
 title: Rule 4 - Mulai dari kecil tapi tetap ambisius
 sidebar_label: Rule Ke-4
-hide_title: true
+hide_title: false
 ---
-## Rule 4 - Mulai dari kecil tapi tetap ambisius
 
 Let's face it, semua entreprenerus yang ada impact dan terkenal punya bold ambition semua start dari small.
 

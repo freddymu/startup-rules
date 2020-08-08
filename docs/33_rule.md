@@ -2,9 +2,8 @@
 id: rule-33-investor-syndicates-need-to-be-managed
 title: Rule 33 - Investor syndicates need to be managed
 sidebar_label: Rule Ke-33
-hide_title: true
+hide_title: false
 ---
-## Rule 33 - Investor syndicates need to be managed
 
 Kalau kamu sudah ada beberapa investor di startupmu, kamu akan ada yang namanya "investor syndicate" dan yang kamu harus pastikan ada "lead investor" di startupmu.
 

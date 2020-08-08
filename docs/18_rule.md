@@ -2,9 +2,8 @@
 id: rule-18-know-your-financial-numbers-and-their-interdependencies-by-heart
 title: Rule 18 - Know your financial numbers and their interdependencies by heart
 sidebar_label: Rule Ke-18
-hide_title: true
+hide_title: false
 ---
-## Rule 18 - Know your financial numbers and their interdependencies by heart
 
 Kalau kamu mau pitch sukses kamu HARUS tahu your numbers titik. Salah satu faktor terbesar yang bikin founder gagal pitch itu engga ngerti financial numbernya.
 

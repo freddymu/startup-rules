@@ -2,9 +2,8 @@
 id: rule-29-if-you-choose-venture-capital-pick-the-right-type-of-investor
 title: Rule 29 - If you choose venture capital, pick the right type of investor
 sidebar_label: Rule Ke-29
-hide_title: true
+hide_title: false
 ---
-## Rule 29 - If you choose venture capital, pick the right type of investor
 
 Okay, jadi kamu tetep mau pake duit venture capital. Kamu harus tahu beberapa tipe mereka.
 

@@ -2,9 +2,8 @@
 id: rule-14-tim-professional-dan-solid-lebih-mudah-dapet-investment
 title: Rule 14 - Tim professional dan solid lebih mudah dapet investment
 sidebar_label: Rule Ke-14
-hide_title: true
+hide_title: false
 ---
-## Rule 14 - Tim professional dan solid lebih mudah dapet investment
 
 Investor itu 90% tidak invest karena tidak yakin dengan bisnis atau tim kamu. Mereka bisa bilang timing tidak tepat, ga ngerti industrinya, udah banyak handle startup lain.
 

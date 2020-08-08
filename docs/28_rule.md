@@ -2,9 +2,8 @@
 id: rule-28-avoid-venture-capital-unless-you-absolutely-need-it
 title: Rule 28 - Avoid venture capital unless you absolutely need it
 sidebar_label: Rule Ke-28
-hide_title: true
+hide_title: false
 ---
-## Rule 28 - Avoid venture capital unless you absolutely need it
 
 Banyak yang beranggapan harus ada venture capital untuk bisa besar padhal kenyataannya tidak begitu.
 

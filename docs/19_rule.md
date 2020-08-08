@@ -2,9 +2,8 @@
 id: rule-19-net-income-itu-subjektif-tapi-cash-flow-itu-fakta
 title: Rule 19 - Net income itu subjektif, tapi cash flow itu fakta
 sidebar_label: Rule Ke-19
-hide_title: true
+hide_title: false
 ---
-## Rule 19 - Net income itu subjektif, tapi cash flow itu fakta
 
 Ketika ada ketidaksesuaian antara cashflow dan net income biasanya karena ada 2 alasan.
 

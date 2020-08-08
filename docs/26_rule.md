@@ -2,9 +2,8 @@
 id: rule-26-simpan-kejutan-untuk-ulang-tahun-bukan-untuk-shareholders
 title: Rule 26 - Simpan kejutan untuk ulang tahun, bukan untuk shareholders
 sidebar_label: Rule Ke-26
-hide_title: true
+hide_title: false
 ---
-## Rule 26 - Simpan kejutan untuk ulang tahun, bukan untuk shareholders
 
 Ketika situasi lagi senang, kamu dan investorsmu santai santai saja. tapi kalau keadaan sedang sulit bagaimana kamu sebagai beri tahu bad newsnya ?
 

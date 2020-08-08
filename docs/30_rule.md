@@ -2,9 +2,8 @@
 id: rule-30-conduct-detailed-due-diligence-on-your-investors
 title: Rule 30 - Conduct detailed due diligence on your investors
 sidebar_label: Rule Ke-30
-hide_title: true
+hide_title: false
 ---
-## Rule 30 - Conduct detailed due diligence on your investors
 
 Kamu akan masuk longterm partnership dengan investor pilihanmu. Kamu HARUS background check investormu secara detail.
 

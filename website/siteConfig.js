@@ -126,12 +126,12 @@ const siteConfig = {
   gaTrackingId: 'UA-173538957-1',
   noIndex: false,
 
-//   algolia: {
-//     apiKey: '0ad293c64dfd592ca157e258850b6133',
-//     indexName: 'startup-rules',
-//     placeholder: 'Ask me something',
-//     algoliaOptions: {}, // Optional, if provided by Algolia
-//   },
+  algolia: {
+    apiKey: 'd5f68d75e8f8204e745175361deaff17',
+    indexName: 'freddymu_startup-rules',
+    placeholder: 'Ask me something',
+    algoliaOptions: {}, // Optional, if provided by Algolia
+  },
 
   twitter: true,
   //twitterUsername: 'FredEatWorld'

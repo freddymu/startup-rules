@@ -2,9 +2,8 @@
 id: rule-11-lebih-baik-hire-part-time-expert-daripada-full-time-newbie
 title: Rule 11 - Lebih baik hire part time expert, daripada full time newbie
 sidebar_label: Rule Ke-11
-hide_title: true
+hide_title: false
 ---
-## Rule 11 - Lebih baik hire part time expert, daripada full time newbie
 
 Early stage startup cashnya sangat terbatas, janganlah compete dengan unicorn untuk masalah gaji. You will never win.
 

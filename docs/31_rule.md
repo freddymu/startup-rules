@@ -2,9 +2,8 @@
 id: rule-31-deal-directly-with-the-decision-makers
 title: Rule 31 - Deal directly with the decision makers
 sidebar_label: Rule Ke-31
-hide_title: true
+hide_title: false
 ---
-## Rule 31 - Deal directly with the decision makers
 
 Banyak yang belum tahu tentang ini tapi biasanya yang dapet duit venture capital itu adalah founder founder yang punya relasi dekat dengan top executive VC tersebut.
 

@@ -2,9 +2,8 @@
 id: rule-34-dont-let-a-temporary-fix-become-a-permanent-mistake
 title: Rule 34 - Don’t let a temporary fix become a permanent mistake
 sidebar_label: Rule Ke-34
-hide_title: true
+hide_title: false
 ---
-## Rule 34 - Don’t let a temporary fix become a permanent mistake.
 
 Ketika terima dana dari investor atau apapun itu, kamu harus benar2 pikirin "harga" untuk dana tersebut.
 

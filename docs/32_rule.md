@@ -2,9 +2,8 @@
 id: rule-32-select-investors-that-can-help-with-future-financing
 title: Rule 32 - Select investors that can help with future financing
 sidebar_label: Rule Ke-32
-hide_title: true
+hide_title: false
 ---
-## Rule 32 - Select investors that can help with future financing
 
 Kamu harus ingat kalau kamu berhasil raise fund, itu bukan berarti kamu hanya dapat uang tapi juga network investor tersebut untuk nanti fund raise kedepannya.
 
