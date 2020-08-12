@@ -5,7 +5,6 @@
 <img src="./cover.png" width="400" >
 
 <br>
-<br>
 
 ### Oleh William Anputra
 
