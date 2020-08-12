@@ -6,7 +6,7 @@ module.exports = {
     //'https://raw.githubusercontent.com/markdowncss/retro/master/css/retro.css',
     //'https://raw.githubusercontent.com/markdowncss/splendor/master/css/splendor.css',
   ],
-  css: `div { page-break-after: always; }`,
+  css: `div { page-break-after: always; } * {font-family:'Segoe UI', Arial;} a {text-decoration: none;}`,
   //body_class: 'markdown-body',
   body_class: [],
   highlight_style: 'github',
