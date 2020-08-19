@@ -30,6 +30,11 @@ Ketika ada posting baru maka berikut langkah-langkah untuk melakukan kompilasiny
 6. Masuk ke folder website lalu jalankan perintah `yarn build && npx netlify deploy --prod` untuk membuild file md menjadi file html dan deploy ke server netlify
 7. Commit dan push perubahan agar file pdf terbaru dapat didownload dari halaman website
 
+```bash
+# one line command
+node utilities/merge-md.js && npx md-to-pdf utilities/cover.md --config-file=md-to-pdf-cover.config.js && node utilities/make-pdf.js && cd website/ && yarn build && npx netlify deploy --prod
+```
+
 ## Technology Used
 
 - Docusaurus 1.14.x untuk membuat static web dari markdown
