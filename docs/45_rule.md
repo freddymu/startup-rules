@@ -20,3 +20,6 @@ Kamu sering kan denger statement seperti ini ?
 "Iya nanti promosi kamu saya akan urus" dan tidak ada kelanjutan sama sekali akhirnya kamu tanya terus menerus ? yeah... sebagai atasan pusing kalau udah bikin janji dan ga bisa tepatin.
 
 Ini juga akan menjadi solusi ketika employee merasa harus langsung ngomong ke board member bila ada masalah yang sensitif seperti pelecehan seksual dari pihak management.
+
+Sumber:
+[https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6702416445831168000-Rq_8](https://www.linkedin.com/posts/william-anputra-11904586_startuprules-startup-founder-activity-6702416445831168000-Rq_8)
