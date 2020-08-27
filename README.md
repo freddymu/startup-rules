@@ -32,7 +32,7 @@ Ketika ada posting baru maka berikut langkah-langkah untuk melakukan kompilasiny
 
 ```bash
 # one line command
-node utilities/merge-md.js && npx md-to-pdf utilities/cover.md --config-file=md-to-pdf-cover.config.js && node utilities/make-pdf.js && cd website/ && yarn build && npx netlify deploy --prod
+node utilities/merge-md.js && npx md-to-pdf utilities/cover.md --config-file=md-to-pdf-cover.config.js && node utilities/make-pdf.js && git add . && git commit -m 'add new rule' && git push origin master && cd website/ && yarn build && npx netlify deploy --prod
 ```
 
 ## Technology Used
