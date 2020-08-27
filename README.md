@@ -32,12 +32,12 @@ Ketika ada posting baru maka berikut langkah-langkah untuk melakukan kompilasiny
 
 ```bash
 # one line command
-node utilities/merge-md.js && npx md-to-pdf utilities/cover.md --config-file=md-to-pdf-cover.config.js && node utilities/make-pdf.js && git add . && git commit -m 'add new rule' && git push origin master && cd website/ && yarn build && npx netlify deploy --prod
+node utilities/merge-md.js && npx md-to-pdf utilities/cover.md --config-file=md-to-pdf-cover.config.js && node utilities/make-pdf.js && git add . && git commit -m 'add new rule' && git push origin master && cd website/ && yarn build && npx netlify deploy --prod --dir "./build/startup-rules"
 ```
 
 ## Technology Used
 
 - Docusaurus 1.14.x untuk membuat static web dari markdown
 - Marked.js untuk mengubah file Markdown ke HTML
-- Puppetter, Chrome headless browser. Digunakan untuk mengubah file HTML ke PDF
+- md-to-pdf package, Puppetter, Chrome headless browser. Digunakan untuk mengubah file HTML ke PDF
 - PDFBox untuk merge cover.pdf dengan content PDF lainnya
